@@ -9,12 +9,6 @@ This project is a Dash-based web application that processes unstructured data an
 - Secure environment setup using `.env` for sensitive API keys.
 - Containerized deployment using Docker.
 
-# Which is Bigger?
-
-## Overview
-
-The **"Which is Bigger?"** project is a Python-based web application powered by **Dash** and the **Gemini Generative AI** model. This app compares two numbers and determines which one is larger using advanced AI capabilities. The project is containerized with Docker for easy deployment and scalability.
-
 ---
 
 ## Features
