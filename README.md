@@ -4,14 +4,6 @@
 This project is a Dash-based web application that processes unstructured data and converts it into structured, tabular data using Google AI Studio's Generative Language API.
 
 ## Features
-- Leverages the Google AI Python SDK to interact with the Generative Language API.
-- Processes unstructured data into a structured format (tabular columns).
-- Secure environment setup using `.env` for sensitive API keys.
-- Containerized deployment using Docker.
-
----
-
-## Features
 
 - Simple and intuitive user interface built with **Dash**.
 - Uses **Google Gemini Generative AI** to make comparisons.
