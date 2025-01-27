@@ -1,5 +1,4 @@
 
-```markdown
 # Trip Planner API with Google AI Studio Integration
 
 This project is a Dash-based web application that processes unstructured data and converts it into structured, tabular data using Google AI Studio's Generative Language API.
